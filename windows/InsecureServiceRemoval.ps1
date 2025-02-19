@@ -1,4 +1,5 @@
 # Disable weak TLS/SSL ciphers and protocols
+# Thank you Northeastern for the script <3
 # ---------------------
 # https://www.nartac.com/Products/IISCrypto
 # https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/manage-ssl-protocols-in-ad-fs
